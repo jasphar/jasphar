@@ -26,7 +26,7 @@ Here are some of my archived projects:
 Feel free to reach out to me for any questions or collaboration opportunities. You can find me on:
 
 - **Email**: piotr.zawislowski@gmail.com
-- **GitHub**: [jespah](https://github.com/jespah)
+- **GitHub**: [jasphar](https://github.com/jasphar)
 
 ## Licensing
 This profile and its content are licensed under the [MIT License](http://opensource.org/mit-license.php) 📝
